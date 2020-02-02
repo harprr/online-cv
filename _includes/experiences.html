@@ -9,6 +9,12 @@
        {{ experiences.title }}
   </h2>
   
+  {% if experience.role %}
+  <div class="job-title">
+      <p>{{ experience.role }}</p>
+  </div><!--//intro-->
+  {% endif %}
+  
   {% for experience in experiences %}
   <div class="item">
 
