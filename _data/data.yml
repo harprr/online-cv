@@ -64,7 +64,8 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-work experiences:
+experiences:
+    title: Work Experiences
     - role: President/ Captain
       time: 2017.4 - 2018.4
       company: HKBU Student's Union Mandarin Debate Team
@@ -80,6 +81,8 @@ work experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
+    title: Etra-curricular Experiences
+
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
@@ -103,7 +106,7 @@ work experiences:
           - Bullet point
           - Bullet point
 projects:
-    title: Projects
+    title: Etra-curricular Experiences
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
