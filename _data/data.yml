@@ -65,7 +65,7 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    title: Work Experiences
+   title: Work Experiences
     - role: President/ Captain
       time: 2017.4 - 2018.4
       company: HKBU Student's Union Mandarin Debate Team
@@ -81,7 +81,6 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    title: Etra-curricular Experiences
 
     - role: Senior Software Engineer
       time: 2014 - 2015
